@@ -1,5 +1,5 @@
 # leccion_platzi_embeddings
-prueba para platzi en embeddings usando jupyter note book
+prueba para platzi en embeddings usando jupyter notebook
 
 # Lección para platzi usando la libreria sentence transformers
 
